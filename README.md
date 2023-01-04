@@ -60,16 +60,20 @@
 # Brief Description of our Folders:
 
 **ETL Report:**
-	The ETL Report contains the cleaning and transforming steps needed to turn the census datasets into usable data frames. 
+
+ The ETL Report contains the cleaning and transforming steps needed to turn the census datasets into usable data frames. 
 
 **Visualizations:**
-	In this folder, you will find the code and visualizations related to our questions surrounding the datasets. There are 12 total visualizations using the seaborn and matplotlib modules. 
+
+ In this folder, you will find the code and visualizations related to our questions surrounding the datasets. There are 12 total visualizations using the seaborn and matplotlib modules. 
 
 **Project Report:**
-	In this folder, you will find the complete project report. Here you can find our analysis on the data and explaining our visualizations. This also includes our findings and results from the datasets.
+
+ In this folder, you will find the complete project report. Here you can find our analysis on the data and explaining our visualizations. This also includes our findings and results from the datasets.
 
 **Project Presentation:** 
-	The Project Presentation is a PDF file that contains the 12 visualizations from the Project Report PDF. The Report has all the initial information such as our sources, questions, and our analyzes that our visualizations refer to. 
+
+ The Project Presentation is a PDF file that contains the 12 visualizations from the Project Report PDF. The Report has all the initial information such as our sources, questions, and our analyzes that our visualizations refer to. 
 
 
 
