@@ -38,7 +38,7 @@ different are they from white owners? (all in the year 2020)
 7. EMPSZFI_LABEL
    - The size of the company based on how many employees it has. The size is given by a range (i.e 1-4 employees).
 8. YEAR
-   - The year of the data 
+   - The year of the dataset 
 9. FIRMPDEMP
    - Number of employer firms 
 10. RCPPDEMP
