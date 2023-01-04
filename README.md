@@ -23,8 +23,8 @@ different are they from white owners? (all in the year 2020)
 - What educational background do they have? What motivates the business owners in America to run their own business? 
 
 # Data Dictionary:
-- Name
-	Gives the geographic name of the region that the data is coming from.
+1. Name
+   - Gives the geographic name of the region that the data is coming from.
 - NAICS2017_LABEL
 	The name of the industry that’s associated with the NAICS code. 
 SEX_LABEL
