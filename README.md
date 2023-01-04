@@ -25,32 +25,32 @@ different are they from white owners? (all in the year 2020)
 # Data Dictionary:
 1. Name
    - Gives the geographic name of the region that the data is coming from.
-- NAICS2017_LABEL
-	The name of the industry that’s associated with the NAICS code. 
-SEX_LABEL
-The sex of the owner(s) of the business.
-ETH_GROUP_LABEL
-The ethnicity of the owner(s) of the business.
-RACE_GROUP_LABEL
-The race of the owner(s) of the business.
-VET_GROUP_LABEL
-The veteran status of the owner(s) of the business.
-EMPSZFI_LABEL
-The size of the company based on how many employees it has. The size is given by a range (i.e 1-4 employees).
-YEAR
-The year of the data 
-FIRMPDEMP
-Number of employer firms 
-RCPPDEMP
-Sales, value of shipments, or revenue of employer firms ($1,000)
-YIBSZFI
-Years in business code. See API2020-company-summary.pdf (census.gov) for more detailed information about the codes. 
-PAYANN
-Annual Payroll ($1,000)
-EMP
-Number of employees as a raw number 
-RCPSZFI_LABEL
-Sales, value of shipments, or revenue of employer firms code. See API2020-company-summary.pdf (census.gov) for more detailed information about the codes. 
+2. NAICS2017_LABEL
+   - The name of the industry that’s associated with the NAICS code. 
+3. SEX_LABEL
+   - The sex of the owner(s) of the business.
+4. ETH_GROUP_LABEL
+   - The ethnicity of the owner(s) of the business.
+5. RACE_GROUP_LABEL
+   - The race of the owner(s) of the business.
+6. VET_GROUP_LABEL
+   - The veteran status of the owner(s) of the business.
+7. EMPSZFI_LABEL
+   - The size of the company based on how many employees it has. The size is given by a range (i.e 1-4 employees).
+8. YEAR
+   - The year of the data 
+9. FIRMPDEMP
+   - Number of employer firms 
+10. RCPPDEMP
+    - Sales, value of shipments, or revenue of employer firms ($1,000)
+11. YIBSZFI
+    - Years in business code. See API2020-company-summary.pdf (census.gov) for more detailed information about the codes. 
+12. PAYANN
+    - Annual Payroll ($1,000)
+13. EMP
+    - Number of employees as a raw number 
+14. RCPSZFI_LABEL
+    - Sales, value of shipments, or revenue of employer firms code. See API2020-company-summary.pdf (census.gov) for more detailed information about the codes. 
 
 # Brief Description of our Folders:
 
