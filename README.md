@@ -19,8 +19,7 @@
 
 # Initial Questions:
 - How have industries changed as automation has increased?
-- What industries have a higher number of black owners? Are they different or similar to female black owners? Are there drastic differences between the two? How -
-different are they from white owners? (all in the year 2020)
+- What industries have a higher number of black owners? Are they different or similar to female black owners? Are there drastic differences between the two? How different are they from white owners? (all in the year 2020)
 - What educational background do they have? What motivates the business owners in America to run their own business? 
 
 # Data Dictionary:
